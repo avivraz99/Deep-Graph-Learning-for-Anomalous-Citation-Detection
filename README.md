@@ -31,7 +31,6 @@ The pipeline dynamically loads graph metadata and ground-truth anomalies to cons
    * **Required Columns**:
      * `id`: The unique identifiers of the known anomalous papers.
 
-*Note: The datasets array currently expects:* `'coercive_citations', 'self_citation_chains', 'citation_cartels', 'random_connectors', 'paper_mill_star'`.
 
 ### Step 3: Execution Flow & Framework Methodology
 
