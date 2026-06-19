@@ -63,7 +63,7 @@ The system will print convergence results grouped by $K$ (e.g., top 1%, 5%, 10% 
 * **Hits**: The raw count of true anomalies successfully detected.
 * **Recall**: Percentage of true anomalies found out of all ground-truth anomalies.
 * **Precision**: Percentage of actual anomalies within the top $K$ flagged nodes.
-* **Overlap**: Jaccard similarity between the nodes flagged by the Spectral baseline and the GLAD framework.
+* **Overlap**: Similarity between the nodes flagged by the Spectral baseline and the GLAD framework.
 
 ---
 
