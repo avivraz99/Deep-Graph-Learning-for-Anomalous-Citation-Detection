@@ -1,4 +1,4 @@
-# User Help: Dual Framework Agent
+# User Help: Dual Framework 
 
 ## Overview
 Welcome to the official codebase for the research paper: **Anomaly Detection in Citation Networks via Deep Structural Learning (GLAD) and Spectral Analysis**. 
